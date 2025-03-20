@@ -64,6 +64,7 @@
 <h3>After capture tasks</h3>
 
 🔵 Show quick task menu 🛠️ <br>
+🔵 Screen recording (GIF) 🖼️ <br>
 🔵 Show "After capture" window 🖼️ <br>
 🔵 Beautify image ✨ <br>
 🔵 Add image effects 🎨 <br>
@@ -156,5 +157,5 @@
 🟢 DNS changer <br>
 </div> 
 <br>
-🔵 Screen recording (GIF) 🖼️
+
 
