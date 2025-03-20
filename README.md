@@ -122,46 +122,46 @@
 
 <h2>☁️ Upload</h2>
 <h3>Upload methods</h3>
-⚫ Upload file <br>
-⚫ Upload folder <br>
-⚫ Upload from clipboard <br>
-⚫ Upload text <br>
-⚫ Upload from URL <br>
-⚫ Drag and drop upload <br>
-⚫ Shorten URL <br>
-⚫ Tweet message <br>
-⚫ Watch folder <br>
+⚫️ Upload file 📁 <br>
+⚫️ Upload folder 📂 <br>
+⚫️ Upload from clipboard 📋 <br>
+⚫️ Upload text 📝 <br>
+⚫️ Upload from URL 🌐 <br>
+⚫️ Drag and drop upload 🖱️⬇️ <br>
+⚫️ Shorten URL 🔗✂️ <br>
+⚫️ Tweet message 🐦💬 <br>
+⚫️ Watch folder 👀📁 <br>
 <h3>After upload tasks</h3>
-⚫ Show "After upload" window <br>
-⚫ Shorten URL <br>
-⚫ Share URL <br>
-⚫ Copy URL to clipboard <br>
-⚫ Open URL <br>
-⚫ Show QR code window <br>
+⚫️ Show "After upload" window 🪟 <br>
+⚫️ Shorten URL 🔗✂️ <br>
+⚫️ Share URL 📤🔗 <br>
+⚫️ Copy URL to clipboard 📋🔗 <br>
+⚫️ Open URL 🌐➡️ <br>
+⚫️ Show QR code window 📱🔳 <br>
 
 <h2>🔧 Productivity tools</h2>
-🟢 Color picker <br>
-🟢 Screen color picker <br>
-🟢 Ruler <br>
-🟢 Pin to screen <br>
-🟢 Image editor <br>
-🟢 Image beautifier <br>
-🟢 Image effects <br>
-🟢 Image viewer <br>
-🟢 Image combiner <br>
-🟢 Image splitter <br>
-🟢 Image thumbnailer <br>
-🟢 Video converter <br>
-🟢 Video thumbnailer <br>
-🟢 OCR <br>
-🟢 QR code <br>
-🟢 Hash checker <br>
-🟢 Directory indexer <br>
-🟢 Clipboard viewer <br>
-🟢 Borderless window <br>
-🟢 Inspect window <br>
-🟢 Monitor test <br>
-🟢 DNS changer <br>
+🟢 Color picker 🎨 <br>
+🟢 Screen color picker 🖥️🎨 <br>
+🟢 Ruler 📏 <br>
+🟢 Pin to screen 📌🖥️ <br>
+🟢 Image editor 🖼️✏️ <br>
+🟢 Image beautifier ✨🖼️ <br>
+🟢 Image effects 🎭🖼️ <br>
+🟢 Image viewer 👁️🖼️ <br>
+🟢 Image combiner ➕🖼️ <br>
+🟢 Image splitter ✂️🖼️ <br>
+🟢 Image thumbnailer 🖼️🔍 <br>
+🟢 Video converter 🎥🔄 <br>
+🟢 Video thumbnailer 🎥🖼️ <br>
+🟢 OCR 📄🔍 <br>
+🟢 QR code 📱🔳 <br>
+🟢 Hash checker 🔍🔑 <br>
+🟢 Directory indexer 📂📊 <br>
+🟢 Clipboard viewer 📋👀 <br>
+🟢 Borderless window 🪟🚫 <br>
+🟢 Inspect window 🔍🪟 <br>
+🟢 Monitor test 🖥️✅ <br>
+🟢 DNS changer 🌐🔄 <br>
 </div> 
 <br>
 
