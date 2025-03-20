@@ -13,6 +13,9 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/7b53cc3f-c8e1-4129-bad7-cfc42555080f">
 <br>
 
+<a href="#"><img src="https://github.com/user-attachments/assets/92b0d941-c137-4260-93d4-fe852a3d402d"></a>
+
+
 <div align="left"> 
 <h2>❤ Why ShareX?</h2> 
 🔘 Completely free 💸
